@@ -7,4 +7,4 @@ Past player profiles, statistics, and measurements will help lay the basis of th
 
 This website will not solely predict the outcome of the NBA draft by any means, but it will be an extremely useful tool for NBA general managers and scouts to use, especially as a reference. I think this website could be used as the basis of trade negotiations and determining contract values.
 
-A great portion of the research required for this project has already been compltet, and is still currently being worked on, by Walt King. His work can be found through this link here: https://github.com/walt-king/NFL-draft-research .
+A great portion of the research required for this project has already been completed, and is still currently being worked on, by Walt King. His work can be found through this link here: https://github.com/walt-king/NFL-draft-research .
